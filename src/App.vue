@@ -73,7 +73,7 @@ onMounted(() => {});
     </div>
     <header class="">
       <nav class="navbar navbar-expand-lg">
-        <div class="container">
+        <div class="container" style="padding-left: 20px; padding-right: 20px">
           <a class="navbar-brand" href="index.html"
             ><img
               class="logo-img"
